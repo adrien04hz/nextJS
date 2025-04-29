@@ -12,6 +12,10 @@ const nextConfig: NextConfig = {
         {
           protocol: "https",
           hostname: "tuk-cdn.s3.amazonaws.com"
+        },
+        {
+          protocol: "https",
+          hostname: "raw.githubusercontent.com"
         }
       ]
   }

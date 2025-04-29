@@ -37,6 +37,12 @@ const MenuElementos = [
         icon: <BiAward size={40}/>,
         title: "Toys",
         subtitle: "Compras Online"
+    },
+    {
+        path: "/products/pokemonv2",
+        icon: <BiAward size={40}/>,
+        title: "Pokemon",
+        subtitle: "Listas de Pokemon"
     }
 ];
 
